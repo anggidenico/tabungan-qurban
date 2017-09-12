@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gicoza.tabunganqurban">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Menabung"
+            android:label="Menabung"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Tentang"
+            android:label="Tentang"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Qurban"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sejarah"
+            android:label="@string/title_activity_sejarah"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Riwayat"
+            android:label="Riwayat"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>

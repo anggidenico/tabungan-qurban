@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mulai"
+            android:title="Pilih Hewan Qurban" />
+        <item
+            android:id="@+id/nav_menabung"
+            android:title="Menabung" />
+        <item
+            android:id="@+id/nav_riwayat"
+            android:title="Riwayat" />
+        <item
+            android:id="@+id/nav_reset"
+            android:title="Reset" />
+    </group>
+
+    <item android:title="Informasi">
+        <menu>
+            <item
+                android:id="@+id/nav_sejarah"
+                android:title="Sejarah Qurban" />
+            <item
+                android:id="@+id/nav_tentang"
+                android:title="Tentang" />
+        </menu>
+    </item>
+
+</menu>

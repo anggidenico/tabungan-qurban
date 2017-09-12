@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_qurban"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context="com.gicoza.tabunganqurban.Qurban"
+    android:orientation="vertical">
+
+    <TextView
+        android:text="Pilih Hewan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hewan"
+        android:prompt="@string/pilih_hewan"
+        android:entries="@array/hewan"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:id="@+id/harga" />
+    <Button
+        android:text="Ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/submit" />
+    <android.support.v7.widget.CardView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:src="@drawable/bgkurban"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.v7.widget.CardView>
+</LinearLayout>

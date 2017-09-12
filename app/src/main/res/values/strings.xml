@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Tabungan Qurban</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="pilih_hewan">Pilih hewan</string>
+    <string-array name="hewan">
+        <item>Sapi</item>
+        <item>Kambing</item>
+    </string-array>
+    <string name="title_activity_sejarah">Sejarah</string>
+    <string name="kurban">
+        asdsad
+    </string>
+    <string name="tentang">
+        Aplikasi Tabungan Qurban merupakan aplikasi untuk menabung untuk berqurban.
+    </string>
+    <string name="daftar_harga">
+        tulisan daftar harga
+    </string>
+    <string name="sejarah">
+        1.     Qurban
+"
+                "Kata “Qurban” berasal dari kata qarraba – yuqarribu – qurbaanan, yang berarti “ pendekatan diri “. Dalam istilah agama berarti usaha pendekatan diri kepada Yang Maha Kuasa, yang realisasinya dengan menyerahkan sebagian nikmat yang telah diterima dari Allah SWT dan diserahkan kepada Allah SWT.\n" 
+"2.     Sejarah Qurban\n"
+                "Disebutkan dalam al-Qur’an ayat 27 Surat Al-Maidah, bahwa Qurban telah dilakukan oleh kedua anak Adam :\n" 
+                "“Ceritakan kepada mereka kisah kedua putra Adam (Habil dan Qabil ) menurut agama yang sebenarnya ketika keduanya mempersembahkan Qurban, maka diterima dari seorang dari mereka berdua (Habil ) dan tidak diterima dari yang lain (Qabil). Ia berkata (Qabil) : “Aku pasti membunuhmu”. (Habil) berkata : “ Sesungguhnya Allah hanya menerima (Qurban ) dari orang-orang yang takwa”.\n" 
+                "Menurut Mufassirin, kedua anak Adam itu adalah Qabil, yang melakukan Qurban dengan memberikan hasil tanamannya yang jelek-jelek, sedang Habil berqurban dengan menyembelih seekor kambing yang baik. Dari informasi itu dapat kita ketahui bahwa qurban telah dilkukan orang sejak jaman Nabi Adam As.\n" 
+                "Melihat kandungan ayat 107-108 Surat Ash-Shaffat (37), Ibrahim As melaksanakan perintah dari Allah SWT untuk mengurbankan anaknya yang kemudian menjadi tuntunan untuk melaksanakan Qurban yang diabadikan, ayat tersebut adalah :\n" 
+                "Dan kami tebus anak itu dengan seekor sembelihan yang besar. Kami abadikan anak Ibrahim (pujian yang baik ) dikalangan orang-orang yang datang kemudian “.\n" 
+                "Syariat berqurban dengan menyembelih binatang ternak tersebut menjadi syariat untuk umat nabi Muhammad. Ibadah qurban itu disyariatkan kepada umat Muhammad pada tahun kedua dari Hijrah Nabi SAW. Sebagaimana disyariatkan shalat ‘Idul Adha, shalat ‘Idul Fitri dan Zakat.\n" 
+"3.     Dasar Perintah Berqurban\n"
+                "Ibadah qurban menjadi syari’at Muhammad berdasarkan firman Allah SWT :\n" 
+                "a.     Surat Al- Kautsar (108) ayat 1 dan 2 :\n" 
+                "Sesungguhnya kami telah memberikan kepadamu nikmat yang banyak. Maka dirikanlah shalat karena tuhan-Mu, dan berqurbanlah”.\n" 
+                "b.     Surah Al Hajj (22) ayat 36 :\n" 
+                "Dan telah kami jadikan untuk kamu unta-unta itu sebagian dari pada syi’ar Allah, kamu memperoleh kebaikan yang banya daripadanya, maka sebutlah olehmu nama Allah ketika kamu menyembeluh dalam keadaan berdiri (dan telah terikat ). Kemudian apabila telah roboh (mati), maka makanlah sebagiannya dan beri makanlah orang yang rela dengan apa yang ada padanya (yang tidak minta) dan orang yang meminta. Demikianlah Kami menundukkan unta-unta itu kepada kamu, mudah-mudahan kamu bersyukur.\n" 
+                "c.    Hadis Nabi SAW riwayat Ahmad dan Ibnu Majah, dari Abu Hurairah : “Barang siapa yang mendapatkan keluasaan (rizki untuk berqurban), tetapi ia tidak berqurban (dengan menyembelih binatang) maka janganlah mendekati tempat ahalat Kami”.\n" 
+"4.     Hukum berqurban\n"
+                "a.   Orang yang telah bernadzar akan berqurban, wajib  baginya melaksanakan nadzar tersebut. Hal itu berdasarkan hadis Nabi SAW yang diriwayatkan oleh Bukhori dan Muslim.\n" 
+                "“ Barang siapa bernadzar untuk taat kepada  Allah maka laksanakan”. (HR. Bukhori dan Muslim)\n" 
+                "b.      Orang yang mampu (kaya) menyembelih hewan Qurban  adalah hukumnya wajib, sebagaimana sabda Nabi Saw yang telah disebutkan diatas.\n" 
+                "Adapun menururt para ulama ada beberapa kriteria untuk mrnggolongkan seseorang itu mampu atau kaya :\n" 
+                "1.      Menurut sebagian ulama, jika seseorang itu telah memiliki uang nishab zakat.\n" 
+                "2.      Menurut ulama lain, seseorang itu digolongkan kaya atau mampu adlah orang yang mampu memebeli harga hewan Qurban, sekalipun dengan berhutang asal nanti dapat melunasi hutangnya itu.\n" 
+                "Terlepas dari hukum berqurban, seyogyanya bagi orang  yang mempunyai kemampuan berqurban hendaknya mau melaksanakan ibadah Qurban, berdasarkan “fastabiqul khairot” dalam rangka mentaati Allah dan ittiba’ Rasulullah, Sebagaiman tersebut pada hadis  ( no. 3a dan c ).\n" 
+"5.     Hikmah berqurban\n"
+                "a.      Berdasarkan  ayat 37 surat  Al Hajj (22), bahwa berqurban itu merupakan realisasi taqwa:\n" 
+                "“Daging-daging unta dan darahnya itu sekali-kali tidak dapat mencapai (keridhoan) Allah, tetapi ketaqwaan daripad kamulah yang dapat mencapainya.\n" 
+                "      Demikianlah Allah telah menundukannya untuk kamu supaya kamu mrngagungkan Allah terhadap hidayahNya kepada kamu. Dan berilah kabar gembira kepada orang-orang yang berbuat baik.\n" 
+                "b.  Hadis riwayat At Tairmidzi dari Aisyah, hadis itu menunjukan betapa besarnya pahala besarnya bagi orang yang berqurban. Hadis tersebut berbunyi : Dari Aisyah r.a. ia berkata, “ tidak ada satupun perbuatan manusia dari suatu perbuatan pada hari raya Nahr yang lebih disukai oleh Allah daripad mengalirkan darah (menyembelih Qurban). Sesungguhnya orang yang berqurban itu akan datang pada hari kiamat dengan membawa tanduk, bulu dan kuku binatang Qurban itu (sebagai bukti). Sesungguhnya darah yang mengalir itu lebih cepat sampainya kepada Allah daripada jatuhnya darah ke tanah. Maka berbuatlah sebaik-baiknya dengan berqurban, dengan mensucikan diri (ikhlas)”. (HR. At Tirmidzi, ibnu Majah dan Hakim).\n" 
+"6. Macam-macam Binatang\n"
+                "     Hewan yang dapat untuk  berqurban adalah binatang ternak, sebagaimana tercantum dalam ayat 34 surat al Hajj (22) :\n" 
+                " “Dan bagi tiap-tiap umat telah kami syari’atkan penyembelihan (Qurban), supaya mereka menyebut Nama Allah terhadap binatang ternak yang telah dirizkikan Allah kepada mereka, maka Tuhanmu ialah Tuhan Yang Maha Esa, karena itu berserah dirilah kepada Nya. Dan berilah kabar gembira kepada orang-orang yang tunduk patuh (kepada Allah)”.\n" 
+                "     Yang termasuk kedalam pengertian binatang ternak di kalangan ulama, menyebutkan bahwa binatang ternak itu adalah  : unta, sapi, (kerbau termasuk sapi), kambing termasuk domba dan biri-biri.\n" 
+                "     Tentang keutamaan hewan mana yang disembelih untuk qurban, karena  di dalam Al Qur’an disebutkan secara umum, maka para ulama menginterprestasikannya menurut faham masing-masing.\n" 
+                "     Ulama Syafi’Iyah dan Hambaliyah berpendapat bahwa unta lebih utama, karena harga unta lebih mahal dibandingkan dengan harga binatang ternak yang lainnya.\n" 
+                "     Ulama Malikiyah mengnggap kambing lebih utama, karena kambing atau domba dijadikan hewan qurban oleh Nabi Ibrahim sebagai ganti Ismail.\n" 
+                "     Menurut ulama Hanafiah, yang lebih banyak dagingnya adalah yang lebih utama.\n" 
+                "     Kita tidak perlu mempetentangkan hewan  mana yang lebih utama untuk disembelih sebagai hewan qurban. Karena baik penyembelihan unta maupun kambing dilakukan oleh nabi Muhammad Saw, bahkan di dalam Al qur’an disebutkan secara umum yakni “Bahiimatul An’aam” yang pengertiannya meliputi semua ternak termasuk sapi, dan di Indonesia termasuk pula kerbau.\n" 
+                "    Allah menyebutkan secara umum terhadp binatang ternak tersebut. Hal itu mengandung kemudahan (hikmah) bagi yang hidup di berbagai daerah yang berbeda-beda . bagi orang Indonesia barangkali suka makan daging qurban berupa hewan sapi atau kambing daripada unta, sekalipun harga unta itu lebih mahal.\n" 
+"7. Kriteria Binatang Qurban\n"
+                "a.     Prinsipnya, binatang yang disembelih untuk Qurban hendaknya yang baik dan tidak cacat. Pada hadis riwayat Bukhari dan Muslim, Nabi berqurban dengan menyembelih kambing yang bagus dan enak dipandang, Hadits Rasulullah  :\n" 
+                "Dari Anas semoga Allah meridhoinya, berkata: “ Bahwasnya Nabi Saw telah berqurban dengan dua ekor kibas yang enak dipandang mata lagi mempunyai tanduk. Beliau menyembelih sendiri dengan membaca Basmallah dan bertakbir.”\n" 
+                "Sebaliknya, binatang yang cacat tidak memenuhi kriteria untuk dijadikan hewan qurban. Mengingat Allah SWT telah berfirman dalam Surat Al Imran(3) ayat 92 :\n" 
+                "”Kamu sekali-kali tidak sampai kepada kebaktian (yang sempurna), sebelum kamu menafkahkan sebagian harta yang kamu cintai. Dan apa daja kamu nafkahkan , maka sesungguhnya Allah mengetahuinya “.\n" 
+                "     Dalam pada itu, nabi Saw telah memberikan kriteria hewan yang tidak memenuhi syarat untuk berqurban ada empat. Yaitu berdasarkan pada hadis riwayat At Tairmidzi.\n" 
+                "Bersabda Nabi Saw, “ Empat binatang yang tidak boleh dijadikan binatang Qurban, yaitu yang buta lagi jelas kebutaannya, yang sakit lagi jelas sakitnya, yang pincang lagi jelas pincangnya, dan binatang kurus kering dan tidak bersih”.\n" 
+                "     Tegasnya, empat macam binatang yang tidak memenuhi kriteria itu adalah  :\n" 
+                "1)  Hewan yang jelas cacat matanya, yakni buta\n" 
+                "2)  Hewan yang sakit\n" 
+                "3)  Hewan yang pincang\n" 
+                "4)  Hewan yang sangat kurus, tidak berdaging\n" 
+                "b.      Kriteria yang berkaitan dengan umur, berdasarkanbeberapa hadis dapat dipaparkan:\n" 
+                "1.   Unta yang dapat disembelih untuk Qurban adalah yang telah berumur 5 (lima) tahun, untuk sapi telah berumur 2 (dua) tahun, dan untuk kambing telah berumur 1 (satu) tahun, itulah yang disebut “Musinnah”. Hadits yang menyatakan hal ini adalah hadits riwayat Muslim : “Dari jabir bahwasanya Rasulullah saw bersabda, “jangan kamu sembelih sebagai binatang Qurban, kecuali yang telah “Musinnah”. Jika kamu sukar memeperolehnya, maka sembelihlah kambing yang masih muda “.\n" 
+                "2.  Mengenai syarat umur itu tidak mutlak, karena pada akhir hadits dinyatakan, “kalau kamu tidak memperolehnya, maka sembelihlah anak kambing”. Dalam keadaan yang sukar mendapatkan hewan  yang telah mencapai umur diatas, kurang dari itupun diperbolehkan. Tetapi ingat, hal itu hanya sebagai keringanan kalau memang tidak didapati hewan yang telah cukup umurnya.\n" 
+                "Hadits lain yang dapat kita jadikan dasar tentang keringanan tersebut adalah Hadits Riwayat Bukhari Muslim :“Berkata ‘Uqbah bin Amir, aku berkata :”Ya Rasulullah, aku hanya memperoleh anak kambing”, Rasulullah menjawab : “Berqurbanlah dengan anak kambing itu”\n" 
+                "c.      Mengenai jenis hewan qurban dari jenis jantan, hal itu bukanlah syari’at, melainkan suatu keutamaan menurut ulama Syafiiyah. Jadi hewan dari jenis betina juga telah mencukupi untuk disembelih sebagai hewan qurban, apabila jantan tidak didapati.\n" 
+"8.     Jumlah Hewan Qurban\n"
+                "a.   Sesorang telah dianggap cukup melakukan ibadah Quban dengan menyembelih seekor kambing. Hal itu telah disabdakan oleh Nabi SAW yang diriwayatkan oleh Bukhari dan Muslim, berbunyi : “Dari Jundud Bin Sufyah ia berkata : “saya bersama Nabi SAW melaksanakan ‘Idul Adha, setelah selesai shalat bersama orang banyak, beliau melihat seekor kambing yang sudah disembelih, kemudian beliau besabda (sebagai peringatan) :”Barangsiapa yang menyembelih qurban sebelum melaksanakan shalat hendaklah menyembelih seekor kabing sebagai gantinya. Dan barang siapa yang belum menyembelih hendaknaya dalam menyembelih mendasarkan dengan nama Allah SWT”. (HR Bukhari Muslim).\n" 
+                "b.       Binatang unta, sapi, kerbau, satu ekor dari binatang tersebut mencukupi untuk berqurban 7 orang. Hal itu berdasarkan kepada Hadits riwayat Muslim, Abu Dawud dan At-Tirmidzi : “ Dari Jabir berkata : “pada tahun perjanjian Hudaibiyah, kami menyembelih Qurban bersama Nabi Saw, seekor unta untuk tujuh orang dan seekor sapi juga untuk tujuh orang. “ (HR Muslim, Abu Dawud, At-Tirmidzi)\n" 
+                "Keterangan berqurban seekor hewan qurban untuk seorang diri adalah merupakan ketentuan minimum. Seseorang yang mampu berqurban lebih dari satu ekor dan masyarakat sangat membutuhkan itu lebih lebih baik. Menurut riwayat dari Bukhari dan Muslim, Nabi Saw pernah berqurban dua ekor kambing. Bunyi hadits tersebut adalah :“Diriwayatkan dari Anar r.a ia berkata, “Bahwa sesungguhnya Nabi Saw telah berqurban dengan menyembelih dua ekor kambing yang menyenangkan dipandang mata(putih), dan kambing itu mempunyai tanduk. Binatang Qurban itu, beliau sembelih sendiri dengan membaca basmala dan takbir.” (HR. Bukhori dan Muslim)\n" 
+"9.   Qurban atas nama diri dan keluarganya :\n"
+                "Satu hewan kurban bisa untuk satu orang berikut keluarganya. Demikianlah yang dilakukan oleh Rasulullah saw. ketika menyembelih kurban beliau mengucap, “Ini kurban dari muhammad dan keluarganya.”  Abu Ayyub juga berkata, “Pada masa Nabi saw orang menyembelih seekor kambing atas nama dirinya sendiri dan keluarganya. Akan tetapi kemudian banyak orang yang bermegah-megahan sehingga menjadi seperti yang kalian lihat sekarang.”\n" 
+"10. Waktu Menyembelih Binatang Qurban\n"
+                "           Waktu menyembelih  binatang Qurban adlah pada tanggal 10 Dzuhijjah sesudah Shalat ‘dul Adha, batas akhir sampai terbenamnya matahari pada tanggal 13 Dzulhijjah. tanggal  11,12 dan 13 adlah hari Tasyriq. Dasar penentuan waktu tersebut  adalah ayat 28 surat Al Hajj .\n" 
+                "     “Supaya mereka mempersaksikan berbagai manfaat bagi meeka, dan supaya mereka menebut nama Allah pada hari yang telah ditentukan, atas rizki yang telah Allah berikan kepadanya bearupa ternak.”\n" 
+                "     Para mufassirin dalam mengartikan “ayyaamanma’luumaat” itu hanya 3 (tiga) hari, sehari pada tanggal 10 Dzulhijjah yakni pada hari raya ‘Idul Adha, dan dua hari sesudahnya yakni  tanggl 11 dan 12 Dzulhijjah. Dasar menetapkan 3 hari ini adalah menurut riwayat yang berasal dari Ali, Umar dan Ibnu Abbas yang menyatakan bahwa hari penyembelihan itu 3 hari dan hari yang utama adalah hari yang pertama.\n" 
+                "Menurut Aj Jaila’iya, riwayat ini gharib (asing) sekali. Kata Ibnu Umar, bahwa penyembelihan itu bisa dilakukan juga pad dua hari sesudah hari raya ‘Idul Adha.\n" 
+                "Waktu penyembelihan hanya tiga hari ini dianut oleh pengikut Hanafiyah dan Malikiyah, juga termasuk pengikut Hanabilah. Pengikut Syafi’iyah membolehkan menyembelih pada hari ketiga sesudah hari raya ‘Idul Adha, berarti waktu penyebbelihannya ada 4 (empat) hari. Hari pertama  ketika hari raya ‘Idul Adha dan tiga hari berikutnya adalah hari taysriq.\n" 
+                " Hari Tasriq (tanggal 11,12 dan 13 Dzulhijjah) termasuk hari-hari  untuk penyembelihan hewan Qurban. Hal ini telah dinyatakan dalam hadist Nabi Saw yang diriwayatkan oleh Ahmad dari sahabat Jabir bin Muth’am :” ….. semua hari tasriq adalah waktu penyembelihan (hewan qurban) “. (HR. Ahmad)\n" 
+                "       Adapun orang yang menyembelih hewan Qurban sebelum dilaksanakannya shalat ‘Idul Adha, maka penyembelihan hewan itu tidak terhitung sebagai ibadah Qurban, sebagaimana telah dijelaskan oleh Nabi Saw didalam riwayat Bukhori  Muslim sebagai berikut :\n" 
+                "Nabi Saw. Bersabda : “ Barang siapa yang menyembelih (hewan Qurban) sebelum shalat ‘Idul Adha, maka ia menyembelih untuk dirinya sendiri. Dan orang yang menyembelihnya sesudah shalat ‘Idul Adha, maka sesungguhnya sempurnalah ibadahnya, dan telah mengikuti sunnah kaum muslimin. “ (HR. Bukhari dan Muslim)\n" 
+                "           Waktu yang utama dalam melaksanakan penyembelihan hewan qurban adalah siang hari, sekalipun penyembealihan yang dilakukan pada malam hari juga diperbolehkan.\n" 
+"11. Orang Yang Berhak Menyembelih Binatang Qurban\n"
+                "           Yang menyembelih binatang Qurban diutamakan dilakukan oleh orang yang berqurban (shahibul Qurban). Hal ini sesuai dengan hadits  Nabi Saw yang diriwayatkan oleh Ahmad r.a : “Dalam menyembelih binatang Qurbannya, Nabi melakukannya dengan tangannya sendiri “. (HR. Ahmad).\n" 
+                "            Namun boleh juga penyembelihan itu dilakukan oleh orang lain sebagai wakil Shahibul Qurban. Penyembelihan binatang Qurban sekarang dikoordinir oleh panitia Panitia menawarkan diri untuk mengkoordinir penyembelihan dan pembagian daging Qurban. Atau kadang-kadang Shahibul Qurban memang tidak mamapu menanganinya sendiri sehingga ia minta tolong kepada panitia. Biasanya panitia memanggil orang yang ahli menyembelih  dan menguliti hewan tersebut. Timbul persoalan siapa yang menanggung ongkos atau biaya penyembelihan itu ?\n" 
+                "          Jika dilihat  dari segi pelaksanaan penyembelihan binatang Qurban itu lebih utama dilakukan sendiri orang Shahibul Qurban, maka apabila penyembelihan dan menguliti nya itu diupahkan, ongkosnya dapat dibebankan kepada Shahibul Qurban. Karena panitia yang menawarkan jasa menangani pelaksanakan  Qurban itu maka biaya penyembelihan dan menguliti itu dapat juga dibebankan kepada panitia. Atau panitia membuat ketentua bagi orang yang menyerahkan hewan Qurban kepada panitia hendaknya disertai biaya untuk perawatannya.\n" 
+"12. Penyembelihan Hewan Qurban\n"
+                "a.       yaitu penyembelihan hewan ternak selain unta.\n" 
+                "b.      yaitu penyembelihan hewan unta\n" 
+                "Penyembelihan hewan ternak selain unta, yaitu dengan cara memotong urat leher  di tengah dan dua urat yang berada di samping kanan dan kiri leher. Adapun penyembelihan hewan ternak unta yang diberi tali, sehingga unta itu cepat mati.\n" 
+                "      Syarat penyembelihan\n" 
+                "      1. Menyembelih dengan alat yang tajam, yang dapat mengalirkan darah. Hal ini berdasarkan hadits riwayat Muslim dari Sidad  bin Aus :\n" 
+                "“ Rasulullah Saw pernah bersabda : “Allah Ta’ala mewajibkan berbuat baik terhadap segala sesuatu. Maka jika kamu sekalian membunuh, hendaklah dengan cara yang baik, apabila kamu menyembelih, hendaklah bersikap baik dalam menyembelih itu. Dan menggunakan alat penyembelihan yang tajam dan menunggu sampai mati (mengulitinya).” (HR. Muslim).\n" 
+                "2.   Sasaran yang dipotong adalah urat nadi yang dalam tenggorokan dan leher, agar binatang yang disembelih itu cepat mati. Sebagaimana yang telah diriwatkan oleh  Ad Daruqudni, bahwa Nabi Saw bersabda :\n" 
+                "“(dalam menyembelih) hendaklah memotong urat nadi yang ada dalam leher dan tenggorokan “. (HR Ad-Ddaruqudni).\n" 
+                "Apabila hewan itu menjadi buas atau bersembunyi, sehingga mengalami kesulitan dalam membunuh dengan memotong urat nadi tersebut, maka diperbolehkan hewan itu disembelih dengan cara hewan itu dikenai alat yang tajam yang dapat mematikan. Pada waktu melepas atau melempar alat itu disertai membaca basmalah. Hal ini berdasarkan riwayat dari Bukhari dan Muslim :\n" 
+                "“Kami bersama Nabi Saw dalam suatu bepergian, maka lepaslah seekor unta dari suatu kaum, sedangkan tiada kuda untuk mengejarnya. Maka seorang dari mereka melepaskan anak panah untuk menahan (membunuh unta itu). Kemudian Rasulullah Saw bersabda : “Sesungguhnya binatang itu mempunyai siafat buas, sebagaimana buasnya biantang liar. Maka bagaimanapun  yang dapat kamu lakukan terhadap binatang itu, maka tempuhlah”. (HR. Bukhari Muslim).\n" 
+                "3.  Penyembelih itu hendaknya orang muslim dan sudah akil baligh baik laki-laki maupun perempuan. Tiada halangan kita makan daging dari penyembelihan seorang ahli kitab. Hal itu berdasarkan :\n" 
+                "a.    Surah Al-An’am (6) ayat 118 : “ Maka makanlah binatang-binatang (yang halal) yang disebut Asma Allah ketika menyembelihnya jika kamu beriman kepada ayat-ayatnya”.\n" 
+                "b.     Surat Al-Maidah (5) ayat 5 :\n" 
+                "“Pada hari ini dihalalkan bagimu yang baik-baik, makanlah yang disembelih orang yang diberi Al-Kitab itu halal bagimu, dan makanan kamu halal pula baginya…………….”.\n" 
+                "4.      Dalam menyembelih binatang itu dengan membaca Basmalah. Hal ini didasarkan pada :\n" 
+                "a.     Firman Allah SWT Surat Al-An’am ayat 118, 121 dan ayat 145 :\n" 
+                "Ayat 118 surat Al-An’am dapat dibaca pada point 3 (a). Ayat 121 :\n" 
+                "“Dan janganlah kamu makan binatang-binatang yang tidak disebut Asma Allah ketika menyembelihnya sesungguhnya perbuatan seperti itu adalah suatu kefasikan………..”.\n" 
+                "Ayat 145 :\n" 
+                "“Katakanlah : “Tiada kau peroleh dalam wahyu yang diwahyukan kepadaku, sesuatu yang diharamkan bagi orang yang hendak memakannya, kecuali jika makanan itu bangkai, darah-darah yang mengalir atau daging babi, (karena semua itu kotor) atau binatang yang disembelih atas selain Allah”.\n" 
+                "b.     Hadits riwayat Jamaah dari Rabi’bin Hudaidah :\n" 
+                " “Dari Rafi’bin Hudaidah ia bertanya :”Ya Rasulullah kami akan bertemu dengan musuh besok, dan kita akan menyembelih binatang tetapi tidak mendapatkan pisau, maka Nabi bersabda : “Gunakanlah alat yang dapat mengalirkan darah dan sebutlah Nama Allah, maka makanlah daging yang tidak disembelih dengan gigi atau kuku, dan akan saya sebutkan alasannya. Gigi itu tulang dan kuku itu adalah pisaunya orang Habsyi”. (HR Jamaah).\n" 
+                "c.     Disamping hadits diatas ada lagi hadits Nabi yang memerintahkan kita untuk membaca basmalah ketika mnyembelih binatang yaitu riwayat Bukhari dari Abdullah bin Umar r.a:“Nabi Saw bersabda :” tidaklah aku makan (daging) kecuali padanya disebut asma Allah SWT”. (HR Bukhari).\n" 
+                "       Apabila kita bertamu dijamu makanan dari daging atau membeli daging dipasar kemudian kita ragu-ragu, apakah daging yang kita makan itu pada waktu menyembelih dengan membaca basmallah atau tidak maka untuk meyakinkan diri kita, pada waktu akan makan kita membaca basmallah. Hal itu berdasarkan hadits riwayat Bukhari bahwa sekelompok orang dari sahabat Nabi Saw bertanya kepadanya :” Wahai Nabi ada seseorang menghadiahi daging kepada kami, kami tidak mengetahui apakah pada waktu menyembelih dengan menyebut nama Allah atau tidak ! maka Nabi Saw bersabda :\n" 
+                "“ Sebutlah nama Allah olehmu sekalian, kemudian makanlah “. (HR Bukhari).\n" 
+"13. Pembagian Daging Qurban\n"
+                "Para ulam sepakat bahwa :\n" 
+                "a.      Shahibul Qurban dan keluarganya diperbolehkan makan daging qurban darinya.\n" 
+                "b.     Daging qurban itu diperuntukkan bagi fakir dan miskin. Hal ini berdasarkan pada firman Allah dalam QS Al-Hajj : 36\n" 
+                "“……….Maka apabila telah roboh (mati) maka makanlah sebagian dan berilah orang yang tidak minta maupun yang minta minta……”\n" 
+                "      Setelah daging qurban itu dibagi dan dimakan sendiri, sisanya diperbolehkan untuk disimpan (diawetkan). Hal ini sesuai dengan sabda Nabi Saw yang diriwayatkan oleh At-Tirmidzi:\n" 
+                "“ ………….Makanlah dan bagikanlah, (jika tidak habis) simpanlah )”\n" 
+                "      Bagi shahibul qurban berhak makan daging qurban, itu sesuai dengan tuntunan Nabi Saw bahwa seseorang dianjurkan tidak makan terlebih dahulu sebelum selesai mengerjakan shalat ‘Idul Adha. Hal ini berbeda dengan shalt ‘Idul Fitri, justru dianjurkan makan terlebih dahulu. Anjuran makan sesudah pulang dari shal ‘Idul Adha itu diharapkan yang pertamsa kali dimakan hari itu adalah daging dari hewan qurban tersebut. Hendaknya itu menjadi catatan bagi panitia qurban agar memberi bagian daging kepada Shahibul qurban tidak menghendakinya.\n" 
+                "14.  Anjuran bagi Orang Yang Akan Berqurban\n" 
+                "Sejak awal bulan Dzulhijjah, orang yang akan berqurban agar tidak :\n" 
+                "a.      Memotong kuku\n" 
+                "b.      Memotong rambut\n" 
+                "       Hal itu sesuai dengan hadits yang diriwayatkan oleh Jamma’ah ahli hadits kecuali Bukhari, yang berbunyi :\n" 
+                "“Dari Umi Salamah ra. Bahwasanya Rasulullah bersabda : “apabila kamu sekalian melihat bulan, pada bulan dzulhijjah an salah satu dari kamu akan berqurban, maka hendaklah ia menahan (tidak memotong) rambut dan kuku “. (HR Jama’ah kecuali Bukhari).
+    </string>
+
+</resources>
